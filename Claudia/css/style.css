@@ -1,0 +1,10 @@
+
+body{
+    background-color: aquamarine;
+}
+
+.container {
+    width:80%;
+    height: 100%;
+    margin: 5rem auto;;
+}
